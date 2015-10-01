@@ -10,5 +10,9 @@ if (isset ( $_GET ['nom'] )  {
 //I'm trying CVS using Git Hub
 //I'm trying CVS using Git Hub
 ?>
-<?php ?>
+<?php
+echo "Hello World";
+echo "Hello World"; 
+
+?>
 	
